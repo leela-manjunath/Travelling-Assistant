@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Your Page Title</title>
+</head>
+
+
+
+<style>
+  /* CSS embedded for demonstration */
+  .sidebar .iconButton img {
+    width: 50px; /* Size for icons in sidebar */
+    height: 50px;
+  }
+
+  .container .iconButton img {
+    width: 100px; /* Size for icons in container */
+    height: 100px;
+  }
+</style>
+<body>
+  <div class="container">
+    <!-- Search Bar -->
+    <div class="searchBar">
+      <input type="text" placeholder="Search...">
+      <button class="searchButton"><img src=C:\Users\PARDHIV\Desktop\project2\12.jpg alt="Search"></button>
+    </div>
+
+    <!-- Toggle Menu -->
+    <button class="toggleButton" onclick="toggleMenu()" id="toggleButton">
+      <img src=C:\Users\PARDHIV\Desktop\project2\8.jpg alt="Menu">
+    </button>
+
+    <!-- Sidebar Menu -->
+    <div class="sidebar" id="sidebar">
+      <button class="iconButton" data-page="home.html"><img class="sidebarIcon" src=C:\Users\PARDHIV\Desktop\project2\1.jpg alt="Home"><span>Home</span></button>
+      <button class="iconButton" data-page="home.html" id="multilingualButton"><img class="sidebarIcon" src=C:\Users\PARDHIV\Desktop\project2\5.jpg alt="Multilingual"><span>Multilingual</span></button>
+        <div id="languageModal" class="modal">
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Select Language:</p>
+            <button class="languageButton" data-lang="english">English</button>
+            <button class="languageButton" data-lang="telugu">Telugu</button>
+            <button class="languageButton" data-lang="hindi">Hindi</button>
+          </div>
+         </div>
+      <button class="iconButton" data-page="help.html"><img class="sidebarIcon" src=C:\Users\PARDHIV\Desktop\project2\4.jpg alt="Help"><span>Help</span></button>
+      <button class="iconButton" data-page="feedback.html"><img class="sidebarIcon" src=C:\Users\PARDHIV\Desktop\project2\15.jpg alt="Feedback"><span>Feedback</span></button>
+      <button class="iconButton" data-page="bookmarks.html"><img class="sidebarIcon" src=C:\Users\PARDHIV\Desktop\project2\3.jpg alt="Bookmarks"><span>Bookmarks</span></button>
+    </div>
+    
+
+    <!-- Icons -->
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\11.jpg alt="Icon 1">
+      <br>
+  <strong>Hotels</strong>
+    </button>
+
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\9.jpg alt="Icon 2">
+      <br>
+  <strong>Tourist Spots</strong>
+    </button>
+
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\14.jpg alt="Icon 3">
+      <br>
+  <strong>Restaurants</strong>
+    </button>
+
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\10.jpg alt="Icon 4">
+      <br>
+  <strong>Shopping Spots</strong>
+    </button>
+
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\6.jpg alt="Icon 4">
+      <br>
+  <strong>Weather</strong>
+    </button>
+
+    <button class="iconButton" data-page="next-page.html" >
+      <img src=C:\Users\PARDHIV\Desktop\project2\13.jpg alt="Icon 4">
+      <br>
+  <strong>Location</strong>
+    </button>
+    
+  <script src="script.js"></script>
+</body>
+</html>
