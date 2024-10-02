@@ -1,0 +1,281 @@
+query,intent,city
+"Where can I find hospitals in Tadepalligudem?",hospitals,Tadepalligudem
+"List hospitals in Tadepalligudem.",hospitals,Tadepalligudem
+"Show me medical facilities in Tadepalligudem.",hospitals,Tadepalligudem
+"Find healthcare centers in Tadepalligudem.",hospitals,Tadepalligudem
+"Where are the hospitals in Tadpatri?",hospitals,Tadpatri
+"List hospitals in Tadpatri.",hospitals,Tadpatri
+"Show me medical facilities in Tadpatri.",hospitals,Tadpatri
+"Find healthcare centers in Tadpatri.",hospitals,Tadpatri
+"Where can I find hospitals in Tanuku?",hospitals,Tanuku
+"List hospitals in Tanuku.",hospitals,Tanuku
+"Show me medical facilities in Tanuku.",hospitals,Tanuku
+"Find healthcare centers in Tanuku.",hospitals,Tanuku
+"Where are the hospitals in Tenali?",hospitals,Tenali
+"List hospitals in Tenali.",hospitals,Tenali
+"Show me medical facilities in Tenali.",hospitals,Tenali
+"Find healthcare centers in Tenali.",hospitals,Tenali
+"Where can I find hospitals in Tirupati?",hospitals,Tirupati
+"List hospitals in Tirupati.",hospitals,Tirupati
+"Show me medical facilities in Tirupati.",hospitals,Tirupati
+"Find healthcare centers in Tirupati.",hospitals,Tirupati
+"Where are the hospitals in Uravakonda?",hospitals,Uravakonda
+"List hospitals in Uravakonda.",hospitals,Uravakonda
+"Show me medical facilities in Uravakonda.",hospitals,Uravakonda
+"Find healthcare centers in Uravakonda.",hospitals,Uravakonda
+"Where can I find hospitals in Vijayawada?",hospitals,Vijayawada
+"List hospitals in Vijayawada.",hospitals,Vijayawada
+"Show me medical facilities in Vijayawada.",hospitals,Vijayawada
+"Find healthcare centers in Vijayawada.",hospitals,Vijayawada
+"Where are the hospitals in Vinukonda?",hospitals,Vinukonda
+"List hospitals in Vinukonda.",hospitals,Vinukonda
+"Show me medical facilities in Vinukonda.",hospitals,Vinukonda
+"Find healthcare centers in Vinukonda.",hospitals,Vinukonda
+"Where can I find hospitals in Visakhapatnam?",hospitals,Visakhapatnam
+"List hospitals in Visakhapatnam.",hospitals,Visakhapatnam
+"Show me medical facilities in Visakhapatnam.",hospitals,Visakhapatnam
+"Find healthcare centers in Visakhapatnam.",hospitals,Visakhapatnam
+"Where are the hospitals in Vizianagaram?",hospitals,Vizianagaram
+"List hospitals in Vizianagaram.",hospitals,Vizianagaram
+"Show me medical facilities in Vizianagaram.",hospitals,Vizianagaram
+"Find healthcare centers in Vizianagaram.",hospitals,Vizianagaram
+"Where can I find hospitals in Kovvur?",hospitals,Kovvur
+"List hospitals in Kovvur.",hospitals,Kovvur
+"Show me medical facilities in Kovvur.",hospitals,Kovvur
+"Find healthcare centers in Kovvur.",hospitals,Kovvur
+"Where are the hospitals in Kurnool?",hospitals,Kurnool
+"List hospitals in Kurnool.",hospitals,Kurnool
+"Show me medical facilities in Kurnool.",hospitals,Kurnool
+"Find healthcare centers in Kurnool.",hospitals,Kurnool
+"Where can I find hospitals in Macherla?",hospitals,Macherla
+"List hospitals in Macherla.",hospitals,Macherla
+"Show me medical facilities in Macherla.",hospitals,Macherla
+"Find healthcare centers in Macherla.",hospitals,Macherla
+"Where are the hospitals in Machilipatnam?",hospitals,Machilipatnam
+"List hospitals in Machilipatnam.",hospitals,Machilipatnam
+"Show me medical facilities in Machilipatnam.",hospitals,Machilipatnam
+"Find healthcare centers in Machilipatnam.",hospitals,Machilipatnam
+"Where can I find hospitals in Madanapalle?",hospitals,Madanapalle
+"List hospitals in Madanapalle.",hospitals,Madanapalle
+"Show me medical facilities in Madanapalle.",hospitals,Madanapalle
+"Find healthcare centers in Madanapalle.",hospitals,Madanapalle
+"Where are the hospitals in Mandapeta?",hospitals,Mandapeta
+"List hospitals in Mandapeta.",hospitals,Mandapeta
+"Show me medical facilities in Mandapeta.",hospitals,Mandapeta
+"Find healthcare centers in Mandapeta.",hospitals,Mandapeta
+"Where can I find hospitals in Mangalagiri?",hospitals,Mangalagiri
+"List hospitals in Mangalagiri.",hospitals,Mangalagiri
+"Show me medical facilities in Mangalagiri.",hospitals,Mangalagiri
+"Find healthcare centers in Mangalagiri.",hospitals,Mangalagiri
+"Where are the hospitals in Markapur?",hospitals,Markapur
+"List hospitals in Markapur.",hospitals,Markapur
+"Show me medical facilities in Markapur.",hospitals,Markapur
+"Find healthcare centers in Markapur.",hospitals,Markapur
+"Where can I find hospitals in Nagari?",hospitals,Nagari
+"List hospitals in Nagari.",hospitals,Nagari
+"Show me medical facilities in Nagari.",hospitals,Nagari
+"Find healthcare centers in Nagari.",hospitals,Nagari
+"Where are the hospitals in Nandyala?",hospitals,Nandyala
+"List hospitals in Nandyala.",hospitals,Nandyala
+"Show me medical facilities in Nandyala.",hospitals,Nandyala
+"Find healthcare centers in Nandyala.",hospitals,Nandyala
+"Where can I find hospitals in Narasaraopet?",hospitals,Narasaraopet
+"List hospitals in Narasaraopet.",hospitals,Narasaraopet
+"Show me medical facilities in Narasaraopet.",hospitals,Narasaraopet
+"Find healthcare centers in Narasaraopet.",hospitals,Narasaraopet
+"Where are the hospitals in Narsipatnam?",hospitals,Narsipatnam
+"List hospitals in Narsipatnam.",hospitals,Narsipatnam
+"Show me medical facilities in Narsipatnam.",hospitals,Narsipatnam
+"Find healthcare centers in Narsipatnam.",hospitals,Narsipatnam
+"Where can I find hospitals in Nellore?",hospitals,Nellore
+"List hospitals in Nellore.",hospitals,Nellore
+"Show me medical facilities in Nellore.",hospitals,Nellore
+"Find healthcare centers in Nellore.",hospitals,Nellore
+"Where are the hospitals in Nidadavole?",hospitals,Nidadavole
+"List hospitals in Nidadavole.",hospitals,Nidadavole
+"Show me medical facilities in Nidadavole.",hospitals,Nidadavole
+"Find healthcare centers in Nidadavole.",hospitals,Nidadavole
+"Where can I find hospitals in Nuzvid?",hospitals,Nuzvid
+"List hospitals in Nuzvid.",hospitals,Nuzvid
+"Show me medical facilities in Nuzvid.",hospitals,Nuzvid
+"Find healthcare centers in Nuzvid.",hospitals,Nuzvid
+"Where are the hospitals in Ongole?",hospitals,Ongole
+"List hospitals in Ongole.",hospitals,Ongole
+"Show me medical facilities in Ongole.",hospitals,Ongole
+"Find healthcare centers in Ongole.",hospitals,Ongole
+"Where can I find hospitals in Palakollu?",hospitals,Palakollu
+"List hospitals in Palakollu.",hospitals,Palakollu
+"Show me medical facilities in Palakollu.",hospitals,Palakollu
+"Find healthcare centers in Palakollu.",hospitals,Palakollu
+"Where are the hospitals in Palasa?",hospitals,Palasa
+"List hospitals in Palasa.",hospitals,Palasa
+"Show me medical facilities in Palasa.",hospitals,Palasa
+"Find healthcare centers in Palasa.",hospitals,Palasa
+"Where can I find hospitals in Peddapuram?",hospitals,Peddapuram
+"List hospitals in Peddapuram.",hospitals,Peddapuram
+"Show me medical facilities in Peddapuram.",hospitals,Peddapuram
+"Find healthcare centers in Peddapuram.",hospitals,Peddapuram
+"Where are the hospitals in Pithapuram?",hospitals,Pithapuram
+"List hospitals in Pithapuram.",hospitals,Pithapuram
+"Show me medical facilities in Pithapuram.",hospitals,Pithapuram
+"Find healthcare centers in Pithapuram.",hospitals,Pithapuram
+"Where can I find hospitals in Proddatur?",hospitals,Proddatur
+"List hospitals in Proddatur.",hospitals,Proddatur
+"Show me medical facilities in Proddatur.",hospitals,Proddatur
+"Find healthcare centers in Proddatur.",hospitals,Proddatur
+"Where are the hospitals in Punganur?",hospitals,Punganur
+"List hospitals in Punganur.",hospitals,Punganur
+"Show me medical facilities in Punganur.",hospitals,Punganur
+"Find healthcare centers in Punganur.",hospitals,Punganur
+"Where can I find hospitals in Puttur?",hospitals,Puttur
+"List hospitals in Puttur.",hospitals,Puttur
+"Show me medical facilities in Puttur.",hospitals,Puttur
+"Find healthcare centers in Puttur.",hospitals,Puttur
+"Where are the hospitals in Rajahmundry?",hospitals,Rajahmundry
+"List hospitals in Rajahmundry.",hospitals,Rajahmundry
+"Show me medical facilities in Rajahmundry.",hospitals,Rajahmundry
+"Find healthcare centers in Rajahmundry.",hospitals,Rajahmundry
+"Where can I find hospitals in Rajampet?",hospitals,Rajampet
+"List hospitals in Rajampet.",hospitals,Rajampet
+"Show me medical facilities in Rajampet.",hospitals,Rajampet
+"Find healthcare centers in Rajampet.",hospitals,Rajampet
+"Where are the hospitals in Ramachandrapuram?",hospitals,Ramachandrapuram
+"List hospitals in Ramachandrapuram.",hospitals,Ramachandrapuram
+"Show me medical facilities in Ramachandrapuram.",hospitals,Ramachandrapuram
+"Find healthcare centers in Ramachandrapuram.",hospitals,Ramachandrapuram
+"Where can I find hospitals in Rayachoti?",hospitals,Rayachoti
+"List hospitals in Rayachoti.",hospitals,Rayachoti
+"Show me medical facilities in Rayachoti.",hospitals,Rayachoti
+"Find healthcare centers in Rayachoti.",hospitals,Rayachoti
+"Where are the hospitals in Repalle?",hospitals,Repalle
+"List hospitals in Repalle.",hospitals,Repalle
+"Show me medical facilities in Repalle.",hospitals,Repalle
+"Find healthcare centers in Repalle.",hospitals,Repalle
+"Where can I find hospitals in Salur?",hospitals,Salur
+"List hospitals in Salur.",hospitals,Salur
+"Show me medical facilities in Salur.",hospitals,Salur
+"Find healthcare centers in Salur.",hospitals,Salur
+"Where are the hospitals in Sattenapalle?",hospitals,Sattenapalle
+"List hospitals in Sattenapalle.",hospitals,Sattenapalle
+"Show me medical facilities in Sattenapalle.",hospitals,Sattenapalle
+"Find healthcare centers in Sattenapalle.",hospitals,Sattenapalle
+"Where can I find hospitals in Srikakulam?",hospitals,Srikakulam
+"List hospitals in Srikakulam.",hospitals,Srikakulam
+"Show me medical facilities in Srikakulam.",hospitals,Srikakulam
+"Find healthcare centers in Srikakulam.",hospitals,Srikakulam
+"Where are the hospitals in Adoni?",hospitals,Adoni
+"List hospitals in Adoni.",hospitals,Adoni
+"Show me medical facilities in Adoni.",hospitals,Adoni
+"Find healthcare centers in Adoni.",hospitals,Adoni
+"Where can I find hospitals in Amalapuram?",hospitals,Amalapuram
+"List hospitals in Amalapuram.",hospitals,Amalapuram
+"Show me medical facilities in Amalapuram.",hospitals,Amalapuram
+"Find healthcare centers in Amalapuram.",hospitals,Amalapuram
+"Where are the hospitals in Anakapalle?",hospitals,Anakapalle
+"List hospitals in Anakapalle.",hospitals,Anakapalle
+"Show me medical facilities in Anakapalle.",hospitals,Anakapalle
+"Find healthcare centers in Anakapalle.",hospitals,Anakapalle
+"Where can I find hospitals in Anantapur?",hospitals,Anantapur
+"List hospitals in Anantapur.",hospitals,Anantapur
+"Show me medical facilities in Anantapur.",hospitals,Anantapur
+"Find healthcare centers in Anantapur.",hospitals,Anantapur
+"Where are the hospitals in Badvel?",hospitals,Badvel
+"List hospitals in Badvel.",hospitals,Badvel
+"Show me medical facilities in Badvel.",hospitals,Badvel
+"Find healthcare centers in Badvel.",hospitals,Badvel
+"Where can I find hospitals in Bobbili?",hospitals,Bobbili
+"List hospitals in Bobbili.",hospitals,Bobbili
+"Show me medical facilities in Bobbili.",hospitals,Bobbili
+"Find healthcare centers in Bobbili.",hospitals,Bobbili
+"Where are the hospitals in Bapatla?",hospitals,Bapatla
+"List hospitals in Bapatla.",hospitals,Bapatla
+"Show me medical facilities in Bapatla.",hospitals,Bapatla
+"Find healthcare centers in Bapatla.",hospitals,Bapatla
+"Where can I find hospitals in Bheemunipatnam?",hospitals,Bheemunipatnam
+"List hospitals in Bheemunipatnam.",hospitals,Bheemunipatnam
+"Show me medical facilities in Bheemunipatnam.",hospitals,Bheemunipatnam
+"Find healthcare centers in Bheemunipatnam.",hospitals,Bheemunipatnam
+"Where are the hospitals in Bhimavaram?",hospitals,Bhimavaram
+"List hospitals in Bhimavaram.",hospitals,Bhimavaram
+"Show me medical facilities in Bhimavaram.",hospitals,Bhimavaram
+"Find healthcare centers in Bhimavaram.",hospitals,Bhimavaram
+"Where can I find hospitals in Cherlopalle?",hospitals,Cherlopalle
+"List hospitals in Cherlopalle.",hospitals,Cherlopalle
+"Show me medical facilities in Cherlopalle.",hospitals,Cherlopalle
+"Find healthcare centers in Cherlopalle.",hospitals,Cherlopalle
+"Where are the hospitals in Chintapalle?",hospitals,Chintapalle
+"List hospitals in Chintapalle.",hospitals,Chintapalle
+"Show me medical facilities in Chintapalle.",hospitals,Chintapalle
+"Find healthcare centers in Chintapalle.",hospitals,Chintapalle
+"Where can I find hospitals in Chirala?",hospitals,Chirala
+"List hospitals in Chirala.",hospitals,Chirala
+"Show me medical facilities in Chirala.",hospitals,Chirala
+"Find healthcare centers in Chirala.",hospitals,Chirala
+"Where are the hospitals in Chittoor?",hospitals,Chittoor
+"List hospitals in Chittoor.",hospitals,Chittoor
+"Show me medical facilities in Chittoor.",hospitals,Chittoor
+"Find healthcare centers in Chittoor.",hospitals,Chittoor
+"Where can I find hospitals in Chodavaram?",hospitals,Chodavaram
+"List hospitals in Chodavaram.",hospitals,Chodavaram
+"Show me medical facilities in Chodavaram.",hospitals,Chodavaram
+"Find healthcare centers in Chodavaram.",hospitals,Chodavaram
+"Where are the hospitals in Cumbum?",hospitals,Cumbum
+"List hospitals in Cumbum.",hospitals,Cumbum
+"Show me medical facilities in Cumbum.",hospitals,Cumbum
+"Find healthcare centers in Cumbum.",hospitals,Cumbum
+"Where can I find hospitals in Dhone?",hospitals,Dhone
+"List hospitals in Dhone.",hospitals,Dhone
+"Show me medical facilities in Dhone.",hospitals,Dhone
+"Find healthcare centers in Dhone.",hospitals,Dhone
+"Where are the hospitals in Eluru?",hospitals,Eluru
+"List hospitals in Eluru.",hospitals,Eluru
+"Show me medical facilities in Eluru.",hospitals,Eluru
+"Find healthcare centers in Eluru.",hospitals,Eluru
+"Where can I find hospitals in Gopalapuram?",hospitals,Gopalapuram
+"List hospitals in Gopalapuram.",hospitals,Gopalapuram
+"Show me medical facilities in Gopalapuram.",hospitals,Gopalapuram
+"Find healthcare centers in Gopalapuram.",hospitals,Gopalapuram
+"Where are the hospitals in Gudur?",hospitals,Gudur
+"List hospitals in Gudur.",hospitals,Gudur
+"Show me medical facilities in Gudur.",hospitals,Gudur
+"Find healthcare centers in Gudur.",hospitals,Gudur
+"Where can I find hospitals in Guntakal?",hospitals,Guntakal
+"List hospitals in Guntakal.",hospitals,Guntakal
+"Show me medical facilities in Guntakal.",hospitals,Guntakal
+"Find healthcare centers in Guntakal.",hospitals,Guntakal
+"Where are the hospitals in Guntur?",hospitals,Guntur
+"List hospitals in Guntur.",hospitals,Guntur
+"Show me medical facilities in Guntur.",hospitals,Guntur
+"Find healthcare centers in Guntur.",hospitals,Guntur
+"Where can I find hospitals in Hindupur?",hospitals,Hindupur
+"List hospitals in Hindupur.",hospitals,Hindupur
+"Show me medical facilities in Hindupur.",hospitals,Hindupur
+"Find healthcare centers in Hindupur.",hospitals,Hindupur
+"Where are the hospitals in Jammalamadugu?",hospitals,Jammalamadugu
+"List hospitals in Jammalamadugu.",hospitals,Jammalamadugu
+"Show me medical facilities in Jammalamadugu.",hospitals,Jammalamadugu
+"Find healthcare centers in Jammalamadugu.",hospitals,Jammalamadugu
+"Where can I find hospitals in Kadapa?",hospitals,Kadapa
+"List hospitals in Kadapa.",hospitals,Kadapa
+"Show me medical facilities in Kadapa.",hospitals,Kadapa
+"Find healthcare centers in Kadapa.",hospitals,Kadapa
+"Where are the hospitals in Kadiri?",hospitals,Kadiri
+"List hospitals in Kadiri.",hospitals,Kadiri
+"Show me medical facilities in Kadiri.",hospitals,Kadiri
+"Find healthcare centers in Kadiri.",hospitals,Kadiri
+"Where can I find hospitals in Kakinada?",hospitals,Kakinada
+"List hospitals in Kakinada.",hospitals,Kakinada
+"Show me medical facilities in Kakinada.",hospitals,Kakinada
+"Find healthcare centers in Kakinada.",hospitals,Kakinada
+"Where are the hospitals in Kandukur?",hospitals,Kandukur
+"List hospitals in Kandukur.",hospitals,Kandukur
+"Show me medical facilities in Kandukur.",hospitals,Kandukur
+"Find healthcare centers in Kandukur.",hospitals,Kandukur
+"Where can I find hospitals in Kavali?",hospitals,Kavali
+"List hospitals in Kavali.",hospitals,Kavali
+"Show me medical facilities in Kavali.",hospitals,Kavali
+"Find healthcare centers in Kavali.",hospitals,Kavali
+"Where are the hospitals in Kovvur?",hospitals,Kovvur
+"List hospitals in Kovvur.",hospitals,Kovvur
+"Show me medical facilities in Kovvur.",hospitals,Kovvur
+"Find healthcare centers in Kovvur.",hospitals,Kovvur

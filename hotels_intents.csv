@@ -1,0 +1,277 @@
+query,intent,city
+"Can you show me hotels in Tadepalligudem?",hotel,Tadepalligudem
+"Find me a hotel in Tadepalligudem.",hotel,Tadepalligudem
+"Where are the best hotels in Tadepalligudem?",hotel,Tadepalligudem
+"List top-rated hotels in Tadepalligudem.",hotel,Tadepalligudem
+"Can you show me hotels in Tadipatri?",hotel,Tadpatri
+"Find a good hotel in Tadipatri.",hotel,Tadpatri
+"Where can I stay in Tadipatri?",hotel,Tadpatri
+"List the best hotels in Tadipatri.",hotel,Tadpatri
+"Where can I find hotels in Tanuku?",hotel,Tanuku
+"Show me hotels in Tanuku.",hotel,Tanuku
+"List good hotels in Tanuku.",hotel,Tanuku
+"Are there any recommended hotels in Tanuku?",hotel,Tanuku
+"Can you find a hotel in Tenali?",hotel,Tenali
+"Where can I stay in Tenali?",hotel,Tenali
+"List top hotels in Tenali.",hotel,Tenali
+"Find me a hotel in Tenali.",hotel,Tenali
+"Show me good hotels in Tirupati.",hotel,Tirupati
+"Find hotels in Tirupati.",hotel,Tirupati
+"Where can I stay in Tirupati?",hotel,Tirupati
+"List top-rated hotels in Tirupati.",hotel,Tirupati
+"Find me hotels in Uravakonda.",hotel,Uravakonda
+"Show me hotels in Uravakonda.",hotel,Uravakonda
+"Are there any good hotels in Uravakonda?",hotel,Uravakonda
+"List the best hotels in Uravakonda.",hotel,Uravakonda
+"Where can I find hotels in Vijayawada?",hotel,Vijayawada
+"Show me hotels in Vijayawada.",hotel,Vijayawada
+"List top hotels in Vijayawada.",hotel,Vijayawada
+"Find me a hotel in Vijayawada.",hotel,Vijayawada
+"Can you show me hotels in Vinukonda?",hotel,Vinukonda
+"Where can I stay in Vinukonda?",hotel,Vinukonda
+"Find a hotel in Vinukonda.",hotel,Vinukonda
+"List good hotels in Vinukonda.",hotel,Vinukonda
+"Show me hotels in Visakhapatnam.",hotel,Visakhapatnam
+"Where can I find hotels in Visakhapatnam?",hotel,Visakhapatnam
+"List top-rated hotels in Visakhapatnam.",hotel,Visakhapatnam
+"Are there any good hotels in Visakhapatnam?",hotel,Visakhapatnam
+"Can you find a hotel in Vizianagaram?",hotel,Vizianagaram
+"List good hotels in Vizianagaram.",hotel,Vizianagaram
+"Where can I stay in Vizianagaram?",hotel,Vizianagaram
+"Show me top hotels in Vizianagaram.",hotel,Vizianagaram
+"Find me hotels in Kovvur.",hotel,Kovvur
+"Are there any hotels in Kovvur?",hotel,Kovvur
+"Show me hotels in Kovvur.",hotel,Kovvur
+"Where are the best hotels in Kovvur?",hotel,Kovvur
+"Can you show me hotels in Kurnool?",hotel,Kurnool
+"List the best hotels in Kurnool.",hotel,Kurnool
+"Where can I stay in Kurnool?",hotel,Kurnool
+"Find good hotels in Kurnool.",hotel,Kurnool
+"Show me hotels in Macherla.",hotel,Macherla
+"Where can I find hotels in Macherla?",hotel,Macherla
+"Are there any good hotels in Macherla?",hotel,Macherla
+"Find a hotel in Macherla.",hotel,Macherla
+"Can you list hotels in Machilipatnam?",hotel,Machilipatnam
+"Where can I stay in Machilipatnam?",hotel,Machilipatnam
+"Show me good hotels in Machilipatnam.",hotel,Machilipatnam
+"Find hotels in Machilipatnam.",hotel,Machilipatnam
+"Can you show me hotels in Madanapalle?",hotel,Madanapalle
+"Where can I stay in Madanapalle?",hotel,Madanapalle
+"Find a hotel in Madanapalle.",hotel,Madanapalle
+"List top hotels in Madanapalle.",hotel,Madanapalle
+"Where can I find hotels in Mandapeta?",hotel,Mandapeta
+"Show me hotels in Mandapeta.",hotel,Mandapeta
+"List the best hotels in Mandapeta.",hotel,Mandapeta
+"Are there any hotels in Mandapeta?",hotel,Mandapeta
+"Can you show me hotels in Mangalagiri?",hotel,Mangalagiri
+"Find a hotel in Mangalagiri.",hotel,Mangalagiri
+"Where can I stay in Mangalagiri?",hotel,Mangalagiri
+"List top hotels in Mangalagiri.",hotel,Mangalagiri
+"Where can I stay in Markapur?",hotel,Markapur
+"List good hotels in Markapur.",hotel,Markapur
+"Show me hotels in Markapur.",hotel,Markapur
+"Are there any good hotels in Markapur?",hotel,Markapur
+"Can you find a hotel in Nagari?",hotel,Nagari
+"List hotels in Nagari.",hotel,Nagari
+"Where can I stay in Nagari?",hotel,Nagari
+"Show me good hotels in Nagari.",hotel,Nagari
+"Where can I find hotels in Nandyala?",hotel,Nandyala
+"Show me hotels in Nandyala.",hotel,Nandyala
+"Find a good hotel in Nandyala.",hotel,Nandyala
+"List top hotels in Nandyala.",hotel,Nandyala
+"Can you list hotels in Narasaraopet?",hotel,Narasaraopet
+"Find a hotel in Narasaraopet.",hotel,Narasaraopet
+"Where can I stay in Narasaraopet?",hotel,Narasaraopet
+"Show me hotels in Narasaraopet.",hotel,Narasaraopet
+"Show me hotels in Narsipatnam.",hotel,Narsipatnam
+"List good hotels in Narsipatnam.",hotel,Narsipatnam
+"Find a hotel in Narsipatnam.",hotel,Narsipatnam
+"Are there any hotels in Narsipatnam?",hotel,Narsipatnam
+"Where can I stay in Nellore?",hotel,Nellore
+"Find a good hotel in Nellore.",hotel,Nellore
+"List the best hotels in Nellore.",hotel,Nellore
+"Show me top hotels in Nellore.",hotel,Nellore
+"Can you show me hotels in Nidadavole?",hotel,Nidadavole
+"Where can I find hotels in Nidadavole?",hotel,Nidadavole
+"List good hotels in Nidadavole.",hotel,Nidadavole
+"Find a hotel in Nidadavole.",hotel,Nidadavole
+"Find me hotels in Nuzvid.",hotel,Nuzvid
+"Show me hotels in Nuzvid.",hotel,Nuzvid
+"Are there any good hotels in Nuzvid?",hotel,Nuzvid
+"List the best hotels in Nuzvid.",hotel,Nuzvid
+"Show me hotels in Ongole.",hotel,Ongole
+"Where can I find hotels in Ongole?",hotel,Ongole
+"List top hotels in Ongole.",hotel,Ongole
+"Find me a hotel in Ongole.",hotel,Ongole
+"Where can I stay in Palakollu?",hotel,Palakollu
+"Find good hotels in Palakollu.",hotel,Palakollu
+"Show me top hotels in Palakollu.",hotel,Palakollu
+"List hotels in Palakollu.",hotel,Palakollu
+"Can you list hotels in Palasa?",hotel,Palasa
+"Where can I stay in Palasa?",hotel,Palasa
+"Find a good hotel in Palasa.",hotel,Palasa
+"Show me top hotels in Palasa.",hotel,Palasa
+"Can you show me hotels in Peddapuram?",hotel,Peddapuram
+"Find a hotel in Peddapuram.",hotel,Peddapuram
+"Where can I stay in Peddapuram?",hotel,Peddapuram
+"List top hotels in Peddapuram.",hotel,Peddapuram
+"Where can I find hotels in Pithapuram?",hotel,Pithapuram
+"Show me hotels in Pithapuram.",hotel,Pithapuram
+"List good hotels in Pithapuram.",hotel,Pithapuram
+"Find a hotel in Pithapuram.",hotel,Pithapuram
+"Can you show me hotels in Proddatur?",hotel,Proddatur
+"Find a hotel in Proddatur.",hotel,Proddatur
+"Where can I stay in Proddatur?",hotel,Proddatur
+"List top hotels in Proddatur.",hotel,Proddatur
+"Where can I stay in Punganur?",hotel,Punganur
+"List hotels in Punganur.",hotel,Punganur
+"Show me hotels in Punganur.",hotel,Punganur
+"Are there any good hotels in Punganur?",hotel,Punganur
+"Can you find hotels in Puttur?",hotel,Puttur
+"List the best hotels in Puttur.",hotel,Puttur
+"Show me good hotels in Puttur.",hotel,Puttur
+"Where can I stay in Puttur?",hotel,Puttur
+"Where can I stay in Rajahmundry?",hotel,Rajahmundry
+"List hotels in Rajahmundry.",hotel,Rajahmundry
+"Show me top hotels in Rajahmundry.",hotel,Rajahmundry
+"Find me a hotel in Rajahmundry.",hotel,Rajahmundry
+"Find me hotels in Rajampet.",hotel,Rajampet
+"Show me hotels in Rajampet.",hotel,Rajampet
+"Are there any good hotels in Rajampet?",hotel,Rajampet
+"List top hotels in Rajampet.",hotel,Rajampet
+"Can you show me hotels in Ramachandrapuram?",hotel,Ramachandrapuram
+"Find a hotel in Ramachandrapuram.",hotel,Ramachandrapuram
+"Where can I stay in Ramachandrapuram?",hotel,Ramachandrapuram
+"List good hotels in Ramachandrapuram.",hotel,Ramachandrapuram
+"Where can I find hotels in Rayachoti?",hotel,Rayachoti
+"Show me hotels in Rayachoti.",hotel,Rayachoti
+"List the best hotels in Rayachoti.",hotel,Rayachoti
+"Are there any hotels in Rayachoti?",hotel,Rayachoti
+"Can you show me hotels in Repalle?",hotel,Repalle
+"Find a hotel in Repalle.",hotel,Repalle
+"Where can I stay in Repalle?",hotel,Repalle
+"List good hotels in Repalle.",hotel,Repalle
+"Show me hotels in Salur.",hotel,Salur
+"List the best hotels in Salur.",hotel,Salur
+"Find me a hotel in Salur.",hotel,Salur
+"Where can I stay in Salur?",hotel,Salur
+"Where can I find hotels in Sattenapalle?",hotel,Sattenapalle
+"Show me hotels in Sattenapalle.",hotel,Sattenapalle
+"List good hotels in Sattenapalle.",hotel,Sattenapalle
+"Find a hotel in Sattenapalle.",hotel,Sattenapalle
+"Can you list hotels in Srikakulam?",hotel,Srikakulam
+"Where can I stay in Srikakulam?",hotel,Srikakulam
+"Show me good hotels in Srikakulam.",hotel,Srikakulam
+"Find hotels in Srikakulam.",hotel,Srikakulam
+"Can you show me hotels in Adoni?",hotel,Adoni
+"List good hotels in Adoni.",hotel,Adoni
+"Find a hotel in Adoni.",hotel,Adoni
+"Where can I stay in Adoni?",hotel,Adoni
+"Where can I stay in Amalapuram?",hotel,Amalapuram
+"List hotels in Amalapuram.",hotel,Amalapuram
+"Show me hotels in Amalapuram.",hotel,Amalapuram
+"Are there any good hotels in Amalapuram?",hotel,Amalapuram
+"Can you show me hotels in Anakapalle?",hotel,Anakapalle
+"Find a hotel in Anakapalle.",hotel,Anakapalle
+"Where can I stay in Anakapalle?",hotel,Anakapalle
+"List top hotels in Anakapalle.",hotel,Anakapalle
+"Where can I stay in Anantapur?",hotel,Anantapur
+"List hotels in Anantapur.",hotel,Anantapur
+"Show me top hotels in Anantapur.",hotel,Anantapur
+"Are there any good hotels in Anantapur?",hotel,Anantapur
+"Find me hotels in Badvel.",hotel,Badvel
+"Show me hotels in Badvel.",hotel,Badvel
+"Are there any hotels in Badvel?",hotel,Badvel
+"List top hotels in Badvel.",hotel,Badvel
+"Can you show me hotels in Bobbili?",hotel,Bobbili
+"Find a hotel in Bobbili.",hotel,Bobbili
+"Where can I stay in Bobbili?",hotel,Bobbili
+"List good hotels in Bobbili.",hotel,Bobbili
+"Where can I stay in Bapatla?",hotel,Bapatla
+"List hotels in Bapatla.",hotel,Bapatla
+"Show me top hotels in Bapatla.",hotel,Bapatla
+"Find me a hotel in Bapatla.",hotel,Bapatla
+"Can you show me hotels in Bheemunipatnam?",hotel,Bheemunipatnam
+"Find a hotel in Bheemunipatnam.",hotel,Bheemunipatnam
+"Where can I stay in Bheemunipatnam?",hotel,Bheemunipatnam
+"List good hotels in Bheemunipatnam.",hotel,Bheemunipatnam
+"Show me hotels in Bhimavaram.",hotel,Bhimavaram
+"List good hotels in Bhimavaram.",hotel,Bhimavaram
+"Where can I stay in Bhimavaram?",hotel,Bhimavaram
+"Find me a hotel in Bhimavaram.",hotel,Bhimavaram
+"Where can I find hotels in Cherlopalle?",hotel,Cherlopalle
+"Show me hotels in Cherlopalle.",hotel,Cherlopalle
+"Are there any good hotels in Cherlopalle?",hotel,Cherlopalle
+"List top hotels in Cherlopalle.",hotel,Cherlopalle
+"Can you find hotels in Chintapalle?",hotel,Chintapalle
+"List hotels in Chintapalle.",hotel,Chintapalle
+"Show me good hotels in Chintapalle.",hotel,Chintapalle
+"Where can I stay in Chintapalle?",hotel,Chintapalle
+"Find hotels in Chirala.",hotel,Chirala
+"Show me hotels in Chirala.",hotel,Chirala
+"Are there any hotels in Chirala?",hotel,Chirala
+"List top hotels in Chirala.",hotel,Chirala
+"Where can I stay in Chittoor?",hotel,Chittoor
+"List hotels in Chittoor.",hotel,Chittoor
+"Show me top hotels in Chittoor.",hotel,Chittoor
+"Find me a hotel in Chittoor.",hotel,Chittoor
+"Find me hotels in Chodavaram.",hotel,Chodavaram
+"Show me hotels in Chodavaram.",hotel,Chodavaram
+"Are there any hotels in Chodavaram?",hotel,Chodavaram
+"List top hotels in Chodavaram.",hotel,Chodavaram
+"Can you show me hotels in Cumbum?",hotel,Cumbum
+"Find a hotel in Cumbum.",hotel,Cumbum
+"Where can I stay in Cumbum?",hotel,Cumbum
+"List good hotels in Cumbum.",hotel,Cumbum
+"Where can I find hotels in Dhone?",hotel,Dhone
+"Show me hotels in Dhone.",hotel,Dhone
+"Are there any good hotels in Dhone?",hotel,Dhone
+"List top hotels in Dhone.",hotel,Dhone
+"Show me hotels in Eluru.",hotel,Eluru
+"Find a hotel in Eluru.",hotel,Eluru
+"List good hotels in Eluru.",hotel,Eluru
+"Where can I stay in Eluru?",hotel,Eluru
+"Can you show me hotels in Gopalapuram?",hotel,Gopalapuram
+"Find a hotel in Gopalapuram.",hotel,Gopalapuram
+"Where can I stay in Gopalapuram?",hotel,Gopalapuram
+"List good hotels in Gopalapuram.",hotel,Gopalapuram
+"Where can I stay in Gudur?",hotel,Gudur
+"Find a good hotel in Gudur.",hotel,Gudur
+"List the best hotels in Gudur.",hotel,Gudur
+"Show me hotels in Gudur.",hotel,Gudur
+"Can you show me hotels in Guntakal?",hotel,Guntakal
+"Find a hotel in Guntakal.",hotel,Guntakal
+"Where can I stay in Guntakal?",hotel,Guntakal
+"List good hotels in Guntakal.",hotel,Guntakal
+"Show me hotels in Guntur.",hotel,Guntur
+"Find a hotel in Guntur.",hotel,Guntur
+"Where can I stay in Guntur?",hotel,Guntur
+"List top hotels in Guntur.",hotel,Guntur
+"Find me hotels in Hindupur.",hotel,Hindupur
+"Show me hotels in Hindupur.",hotel,Hindupur
+"Are there any hotels in Hindupur?",hotel,Hindupur
+"List top hotels in Hindupur.",hotel,Hindupur
+"Can you show me hotels in Jammalamadugu?",hotel,Jammalamadugu
+"Find a hotel in Jammalamadugu.",hotel,Jammalamadugu
+"Where can I stay in Jammalamadugu?",hotel,Jammalamadugu
+"List top hotels in Jammalamadugu.",hotel,Jammalamadugu
+"Where can I stay in Kadapa?",hotel,Kadapa
+"Find a hotel in Kadapa.",hotel,Kadapa
+"List good hotels in Kadapa.",hotel,Kadapa
+"Show me top hotels in Kadapa.",hotel,Kadapa
+"Can you find hotels in Kadiri?",hotel,Kadiri
+"List top hotels in Kadiri.",hotel,Kadiri
+"Where can I stay in Kadiri?",hotel,Kadiri
+"Show me hotels in Kadiri.",hotel,Kadiri
+"Find me hotels in Kakinada.",hotel,Kakinada
+"Show me hotels in Kakinada.",hotel,Kakinada
+"Are there any hotels in Kakinada?",hotel,Kakinada
+"List top hotels in Kakinada.",hotel,Kakinada
+"Can you show me hotels in Kandukur?",hotel,Kandukur
+"Find a hotel in Kandukur.",hotel,Kandukur
+"Where can I stay in Kandukur?",hotel,Kandukur
+"List good hotels in Kandukur.",hotel,Kandukur
+"Where can I stay in Kavali?",hotel,Kavali
+"Find hotels in Kavali.",hotel,Kavali
+"List the best hotels in Kavali.",hotel,Kavali
+"Show me hotels in Kavali.",hotel,Kavali

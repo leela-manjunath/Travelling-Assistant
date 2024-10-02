@@ -1,0 +1,449 @@
+query,intent,city
+"Can you find tourist spots in Tadepalligudem?",tourist_spots,Tadepalligudem
+"Where are the tourist attractions in Tadepalligudem?",tourist_spots,Tadepalligudem
+"Show me tourist places to visit in Tadepalligudem.",tourist_spots,Tadepalligudem
+"List the must-visit tourist spots in Tadepalligudem.",tourist_spots,Tadepalligudem
+"Find popular tourist spots in Tadpatri.",tourist_spots,Tadpatri
+"Show me the top tourist attractions in Tadpatri.",tourist_spots,Tadpatri
+"Where can I visit in Tadpatri?",tourist_spots,Tadpatri
+"List famous tourist destinations in Tadpatri.",tourist_spots,Tadpatri
+"Can you find tourist spots in Tanuku?",tourist_spots,Tanuku
+"Show me tourist attractions in Tanuku.",tourist_spots,Tanuku
+"Where are the tourist places in Tanuku?",tourist_spots,Tanuku
+"List top places to visit in Tanuku.",tourist_spots,Tanuku
+"Find tourist places in Tenali.",tourist_spots,Tenali
+"Show me popular tourist spots in Tenali.",tourist_spots,Tenali
+"Where can I visit in Tenali?",tourist_spots,Tenali
+"List top tourist destinations in Tenali.",tourist_spots,Tenali
+"Can you find tourist spots in Tirupati?",tourist_spots,Tirupati
+"Show me the tourist attractions in Tirupati.",tourist_spots,Tirupati
+"List the famous tourist places in Tirupati.",tourist_spots,Tirupati
+"Where are the must-visit spots in Tirupati?",tourist_spots,Tirupati
+"Where can I visit in Uravakonda?",tourist_spots,Uravakonda
+"Find the best tourist attractions in Uravakonda.",tourist_spots,Uravakonda
+"Show me top places to visit in Uravakonda.",tourist_spots,Uravakonda
+"List popular tourist spots in Uravakonda.",tourist_spots,Uravakonda
+"Can you show me tourist spots in Vijayawada?",tourist_spots,Vijayawada
+"Where can I visit in Vijayawada?",tourist_spots,Vijayawada
+"List tourist attractions in Vijayawada.",tourist_spots,Vijayawada
+"Show me the must-see places in Vijayawada.",tourist_spots,Vijayawada
+"Find tourist attractions in Vinukonda.",tourist_spots,Vinukonda
+"List famous tourist spots in Vinukonda.",tourist_spots,Vinukonda
+"Where can I visit in Vinukonda?",tourist_spots,Vinukonda
+"Show me top places in Vinukonda.",tourist_spots,Vinukonda
+"Can you find tourist spots in Visakhapatnam?",tourist_spots,Visakhapatnam
+"Where are the top tourist attractions in Visakhapatnam?",tourist_spots,Visakhapatnam
+"List the must-see places in Visakhapatnam.",tourist_spots,Visakhapatnam
+"Show me tourist places in Visakhapatnam.",tourist_spots,Visakhapatnam
+"Where can I visit in Vizianagaram?",tourist_spots,Vizianagaram
+"Find famous tourist spots in Vizianagaram.",tourist_spots,Vizianagaram
+"List popular tourist attractions in Vizianagaram.",tourist_spots,Vizianagaram
+"Show me top places to visit in Vizianagaram.",tourist_spots,Vizianagaram
+"Can you find tourist spots in Kovvur?",tourist_spots,Kovvur
+"Show me famous tourist attractions in Kovvur.",tourist_spots,Kovvur
+"Where can I visit in Kovvur?",tourist_spots,Kovvur
+"List top tourist destinations in Kovvur.",tourist_spots,Kovvur
+"Where can I visit in Kurnool?",tourist_spots,Kurnool
+"Find popular tourist spots in Kurnool.",tourist_spots,Kurnool
+"Show me the must-visit places in Kurnool.",tourist_spots,Kurnool
+"List famous tourist destinations in Kurnool.",tourist_spots,Kurnool
+"Find tourist attractions in Macherla.",tourist_spots,Macherla
+"Show me tourist spots in Macherla.",tourist_spots,Macherla
+"List top tourist destinations in Macherla.",tourist_spots,Macherla
+"Where can I visit in Macherla?",tourist_spots,Macherla
+"Can you show me tourist spots in Machilipatnam?",tourist_spots,Machilipatnam
+"Where are the must-see places in Machilipatnam?",tourist_spots,Machilipatnam
+"List top tourist attractions in Machilipatnam.",tourist_spots,Machilipatnam
+"Find popular tourist places in Machilipatnam.",tourist_spots,Machilipatnam
+"Where can I visit in Madanapalle?",tourist_spots,Madanapalle
+"List famous tourist spots in Madanapalle.",tourist_spots,Madanapalle
+"Show me the best places to visit in Madanapalle.",tourist_spots,Madanapalle
+"Find popular tourist destinations in Madanapalle.",tourist_spots,Madanapalle
+"Can you find tourist spots in Mandapeta?",tourist_spots,Mandapeta
+"Show me famous tourist attractions in Mandapeta.",tourist_spots,Mandapeta
+"Where are the must-see places in Mandapeta?",tourist_spots,Mandapeta
+"List top tourist places in Mandapeta.",tourist_spots,Mandapeta
+"Where can I visit in Mangalagiri?",tourist_spots,Mangalagiri
+"Find tourist attractions in Mangalagiri.",tourist_spots,Mangalagiri
+"Show me the best tourist spots in Mangalagiri.",tourist_spots,Mangalagiri
+"List top tourist destinations in Mangalagiri.",tourist_spots,Mangalagiri
+"Can you find tourist spots in Markapur?",tourist_spots,Markapur
+"Where are the top places to visit in Markapur?",tourist_spots,Markapur
+"Show me famous tourist spots in Markapur.",tourist_spots,Markapur
+"List tourist attractions in Markapur.",tourist_spots,Markapur
+"Find tourist places in Nagari.",tourist_spots,Nagari
+"Show me tourist attractions in Nagari.",tourist_spots,Nagari
+"Where can I visit in Nagari?",tourist_spots,Nagari
+"List top tourist spots in Nagari.",tourist_spots,Nagari
+"Can you find tourist spots in Nandyala?",tourist_spots,Nandyala
+"Show me tourist places in Nandyala.",tourist_spots,Nandyala
+"Where can I visit in Nandyala?",tourist_spots,Nandyala
+"List famous tourist destinations in Nandyala.",tourist_spots,Nandyala
+"Find tourist spots in Narasaraopet.",tourist_spots,Narasaraopet
+"Show me popular tourist spots in Narasaraopet.",tourist_spots,Narasaraopet
+"Where can I visit in Narasaraopet?",tourist_spots,Narasaraopet
+"List top tourist destinations in Narasaraopet.",tourist_spots,Narasaraopet
+"Can you show me tourist attractions in Narsipatnam?",tourist_spots,Narsipatnam
+"Where can I visit in Narsipatnam?",tourist_spots,Narsipatnam
+"List tourist spots in Narsipatnam.",tourist_spots,Narsipatnam
+"Show me famous tourist places in Narsipatnam.",tourist_spots,Narsipatnam
+"Find tourist attractions in Nellore.",tourist_spots,Nellore
+"Show me tourist spots in Nellore.",tourist_spots,Nellore
+"List top tourist places in Nellore.",tourist_spots,Nellore
+"Where can I visit in Nellore?",tourist_spots,Nellore
+"Can you show me tourist spots in Nidadavole?",tourist_spots,Nidadavole
+"Where are the famous tourist places in Nidadavole?",tourist_spots,Nidadavole
+"List popular tourist attractions in Nidadavole.",tourist_spots,Nidadavole
+"Find top tourist destinations in Nidadavole.",tourist_spots,Nidadavole
+"Where can I visit in Nuzvid?",tourist_spots,Nuzvid
+"Find tourist spots in Nuzvid.",tourist_spots,Nuzvid
+"Show me famous tourist attractions in Nuzvid.",tourist_spots,Nuzvid
+"List top tourist places in Nuzvid.",tourist_spots,Nuzvid
+"Can you show me tourist spots in Ongole?",tourist_spots,Ongole
+"Where can I visit in Ongole?",tourist_spots,Ongole
+"List popular tourist places in Ongole.",tourist_spots,Ongole
+"Find top tourist destinations in Ongole.",tourist_spots,Ongole
+"Where can I visit in Palakollu?",tourist_spots,Palakollu
+"Find tourist attractions in Palakollu.",tourist_spots,Palakollu
+"Show me famous tourist spots in Palakollu.",tourist_spots,Palakollu
+"List the best tourist places in Palakollu.",tourist_spots,Palakollu
+"Can you find tourist spots in Palasa?",tourist_spots,Palasa
+"Show me the must-visit places in Palasa.",tourist_spots,Palasa
+"List top tourist attractions in Palasa.",tourist_spots,Palasa
+"Where are the famous places to visit in Palasa?",tourist_spots,Palasa
+"Can you show me tourist attractions in Peddapuram?",tourist_spots,Peddapuram
+"Where are the tourist spots in Peddapuram?",tourist_spots,Peddapuram
+"List top tourist destinations in Peddapuram.",tourist_spots,Peddapuram
+"Find famous tourist places in Peddapuram.",tourist_spots,Peddapuram
+"Where can I visit in Pithapuram?",tourist_spots,Pithapuram
+"Find tourist attractions in Pithapuram.",tourist_spots,Pithapuram
+"Show me the must-visit places in Pithapuram.",tourist_spots,Pithapuram
+"List famous tourist spots in Pithapuram.",tourist_spots,Pithapuram
+"Can you show me tourist spots in Proddatur?",tourist_spots,Proddatur
+"Where are the famous tourist places in Proddatur?",tourist_spots,Proddatur
+"List top tourist destinations in Proddatur.",tourist_spots,Proddatur
+"Find popular tourist attractions in Proddatur.",tourist_spots,Proddatur
+"Where can I visit in Punganur?",tourist_spots,Punganur
+"Find tourist spots in Punganur.",tourist_spots,Punganur
+"Show me the best places to visit in Punganur.",tourist_spots,Punganur
+"List top tourist attractions in Punganur.",tourist_spots,Punganur
+"Can you find tourist attractions in Puttur?",tourist_spots,Puttur
+"Where can I visit in Puttur?",tourist_spots,Puttur
+"List famous tourist spots in Puttur.",tourist_spots,Puttur
+"Show me top tourist destinations in Puttur.",tourist_spots,Puttur
+"Find tourist spots in Rajahmundry.",tourist_spots,Rajahmundry
+"Show me tourist attractions in Rajahmundry.",tourist_spots,Rajahmundry
+"Where can I visit in Rajahmundry?",tourist_spots,Rajahmundry
+"List famous tourist places in Rajahmundry.",tourist_spots,Rajahmundry
+"Can you find tourist spots in Rajampet?",tourist_spots,Rajampet
+"Show me the top tourist attractions in Rajampet.",tourist_spots,Rajampet
+"Where are the must-visit places in Rajampet?",tourist_spots,Rajampet
+"List popular tourist spots in Rajampet.",tourist_spots,Rajampet
+"Where can I visit in Ramachandrapuram?",tourist_spots,Ramachandrapuram
+"Find tourist attractions in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"Show me the famous tourist places in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"List the must-see spots in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"Can you find tourist attractions in Rayachoti?",tourist_spots,Rayachoti
+"Where are the tourist spots in Rayachoti?",tourist_spots,Rayachoti
+"List famous places to visit in Rayachoti.",tourist_spots,Rayachoti
+"Show me top tourist destinations in Rayachoti.",tourist_spots,Rayachoti
+"Where can I visit in Repalle?",tourist_spots,Repalle
+"Find tourist spots in Repalle.",tourist_spots,Repalle
+"Show me famous tourist attractions in Repalle.",tourist_spots,Repalle
+"List the best tourist destinations in Repalle.",tourist_spots,Repalle
+"Can you find tourist attractions in Salur?",tourist_spots,Salur
+"Where are the must-visit places in Salur?",tourist_spots,Salur
+"List famous tourist spots in Salur.",tourist_spots,Salur
+"Show me the top tourist destinations in Salur.",tourist_spots,Salur
+"Find tourist spots in Sattenapalle.",tourist_spots,Sattenapalle
+"Show me famous tourist attractions in Sattenapalle.",tourist_spots,Sattenapalle
+"Where can I visit in Sattenapalle?",tourist_spots,Sattenapalle
+"List top tourist places in Sattenapalle.",tourist_spots,Sattenapalle
+"Where can I visit in Srikakulam?",tourist_spots,Srikakulam
+"Find famous tourist spots in Srikakulam.",tourist_spots,Srikakulam
+"Show me the must-visit tourist attractions in Srikakulam.",tourist_spots,Srikakulam
+"List top tourist destinations in Srikakulam.",tourist_spots,Srikakulam
+"Can you find tourist attractions in Adoni?",tourist_spots,Adoni
+"Where are the top tourist spots in Adoni?",tourist_spots,Adoni
+"List famous tourist places in Adoni.",tourist_spots,Adoni
+"Show me popular tourist destinations in Adoni.",tourist_spots,Adoni
+"Find tourist spots in Amalapuram.",tourist_spots,Amalapuram
+"Show me famous tourist attractions in Amalapuram.",tourist_spots,Amalapuram
+"Where can I visit in Amalapuram?",tourist_spots,Amalapuram
+"List top tourist destinations in Amalapuram.",tourist_spots,Amalapuram
+"Can you find tourist attractions in Anakapalle?",tourist_spots,Anakapalle
+"Where are the tourist places in Anakapalle?",tourist_spots,Anakapalle
+"List top tourist spots in Anakapalle.",tourist_spots,Anakapalle
+"Show me famous tourist places in Anakapalle.",tourist_spots,Anakapalle
+"Where can I visit in Anantapur?",tourist_spots,Anantapur
+"Find tourist spots in Anantapur.",tourist_spots,Anantapur
+"Show me famous tourist attractions in Anantapur.",tourist_spots,Anantapur
+"List top tourist places in Anantapur.",tourist_spots,Anantapur
+"Can you show me tourist spots in Badvel?",tourist_spots,Badvel
+"Where are the tourist attractions in Badvel?",tourist_spots,Badvel
+"List famous tourist destinations in Badvel.",tourist_spots,Badvel
+"Find popular tourist places in Badvel.",tourist_spots,Badvel
+"Where can I visit in Bobbili?",tourist_spots,Bobbili
+"Find famous tourist spots in Bobbili.",tourist_spots,Bobbili
+"Show me tourist attractions in Bobbili.",tourist_spots,Bobbili
+"List top tourist destinations in Bobbili.",tourist_spots,Bobbili
+"Can you show me tourist spots in Bapatla?",tourist_spots,Bapatla
+"Where are the top places to visit in Bapatla?",tourist_spots,Bapatla
+"List famous tourist attractions in Bapatla.",tourist_spots,Bapatla
+"Find popular tourist places in Bapatla.",tourist_spots,Bapatla
+"Where can I visit in Bheemunipatnam?",tourist_spots,Bheemunipatnam
+"Find famous tourist spots in Bheemunipatnam.",tourist_spots,Bheemunipatnam
+"Show me tourist attractions in Bheemunipatnam.",tourist_spots,Bheemunipatnam
+"List top tourist destinations in Bheemunipatnam.",tourist_spots,Bheemunipatnam
+"Can you find tourist attractions in Bhimavaram?",tourist_spots,Bhimavaram
+"Where are the famous tourist spots in Bhimavaram?",tourist_spots,Bhimavaram
+"List top places to visit in Bhimavaram.",tourist_spots,Bhimavaram
+"Show me tourist destinations in Bhimavaram.",tourist_spots,Bhimavaram
+"Find tourist spots in Cherlopalle.",tourist_spots,Cherlopalle
+"Show me tourist attractions in Cherlopalle.",tourist_spots,Cherlopalle
+"Where can I visit in Cherlopalle?",tourist_spots,Cherlopalle
+"List top tourist places in Cherlopalle.",tourist_spots,Cherlopalle
+"Where can I visit in Chintapalle?",tourist_spots,Chintapalle
+"Find famous tourist spots in Chintapalle.",tourist_spots,Chintapalle
+"Show me tourist attractions in Chintapalle.",tourist_spots,Chintapalle
+"List top tourist destinations in Chintapalle.",tourist_spots,Chintapalle
+"Can you show me tourist spots in Chirala?",tourist_spots,Chirala
+"Where are the must-visit places in Chirala?",tourist_spots,Chirala
+"List famous tourist destinations in Chirala.",tourist_spots,Chirala
+"Find tourist attractions in Chirala.",tourist_spots,Chirala
+"Where can I visit in Chittoor?",tourist_spots,Chittoor
+"Find famous tourist spots in Chittoor.",tourist_spots,Chittoor
+"Show me popular tourist attractions in Chittoor.",tourist_spots,Chittoor
+"List top tourist destinations in Chittoor.",tourist_spots,Chittoor
+"Can you find tourist attractions in Macherla?",tourist_spots,Macherla
+"Where are the famous tourist spots in Macherla?",tourist_spots,Macherla
+"List top places to visit in Macherla.",tourist_spots,Macherla
+"Show me popular tourist destinations in Macherla.",tourist_spots,Macherla
+"Where can I visit in Machilipatnam?",tourist_spots,Machilipatnam
+"Find tourist spots in Machilipatnam.",tourist_spots,Machilipatnam
+"Show me famous tourist attractions in Machilipatnam.",tourist_spots,Machilipatnam
+"List top tourist destinations in Machilipatnam.",tourist_spots,Machilipatnam
+"Can you show me tourist spots in Madanapalle?",tourist_spots,Madanapalle
+"Where are the must-visit places in Madanapalle?",tourist_spots,Madanapalle
+"List famous tourist attractions in Madanapalle.",tourist_spots,Madanapalle
+"Find popular tourist destinations in Madanapalle.",tourist_spots,Madanapalle
+"Where can I visit in Mandapeta?",tourist_spots,Mandapeta
+"Find tourist attractions in Mandapeta.",tourist_spots,Mandapeta
+"Show me the famous tourist places in Mandapeta.",tourist_spots,Mandapeta
+"List the must-see spots in Mandapeta.",tourist_spots,Mandapeta
+"Can you find tourist attractions in Mangalagiri?",tourist_spots,Mangalagiri
+"Where are the tourist spots in Mangalagiri?",tourist_spots,Mangalagiri
+"List famous places to visit in Mangalagiri.",tourist_spots,Mangalagiri
+"Show me the top tourist destinations in Mangalagiri.",tourist_spots,Mangalagiri
+"Where can I visit in Markapur?",tourist_spots,Markapur
+"Find tourist attractions in Markapur.",tourist_spots,Markapur
+"Show me famous tourist spots in Markapur.",tourist_spots,Markapur
+"List top places to visit in Markapur.",tourist_spots,Markapur
+"Can you find tourist attractions in Nagari?",tourist_spots,Nagari
+"Where are the tourist spots in Nagari?",tourist_spots,Nagari
+"List famous places to visit in Nagari.",tourist_spots,Nagari
+"Show me the top tourist destinations in Nagari.",tourist_spots,Nagari
+"Where can I visit in Nandyala?",tourist_spots,Nandyala
+"Find tourist spots in Nandyala.",tourist_spots,Nandyala
+"Show me famous tourist attractions in Nandyala.",tourist_spots,Nandyala
+"List top places to visit in Nandyala.",tourist_spots,Nandyala
+"Can you show me tourist spots in Narasaraopet?",tourist_spots,Narasaraopet
+"Where are the must-visit places in Narasaraopet?",tourist_spots,Narasaraopet
+"List famous tourist attractions in Narasaraopet.",tourist_spots,Narasaraopet
+"Find popular tourist destinations in Narasaraopet.",tourist_spots,Narasaraopet
+"Where can I visit in Narsipatnam?",tourist_spots,Narsipatnam
+"Find famous tourist spots in Narsipatnam.",tourist_spots,Narsipatnam
+"Show me tourist attractions in Narsipatnam.",tourist_spots,Narsipatnam
+"List top tourist destinations in Narsipatnam.",tourist_spots,Narsipatnam
+"Can you find tourist attractions in Nellore?",tourist_spots,Nellore
+"Where are the tourist spots in Nellore?",tourist_spots,Nellore
+"List famous places to visit in Nellore.",tourist_spots,Nellore
+"Show me the top tourist destinations in Nellore.",tourist_spots,Nellore
+"Where can I visit in Nidadavole?",tourist_spots,Nidadavole
+"Find tourist attractions in Nidadavole.",tourist_spots,Nidadavole
+"Show me famous tourist spots in Nidadavole.",tourist_spots,Nidadavole
+"List top places to visit in Nidadavole.",tourist_spots,Nidadavole
+"Can you show me tourist spots in Nuzvid?",tourist_spots,Nuzvid
+"Where are the must-visit places in Nuzvid?",tourist_spots,Nuzvid
+"List famous tourist attractions in Nuzvid.",tourist_spots,Nuzvid
+"Find popular tourist destinations in Nuzvid.",tourist_spots,Nuzvid
+"Where can I visit in Ongole?",tourist_spots,Ongole
+"Find tourist spots in Ongole.",tourist_spots,Ongole
+"Show me famous tourist attractions in Ongole.",tourist_spots,Ongole
+"List top places to visit in Ongole.",tourist_spots,Ongole
+"Can you find tourist attractions in Palakollu?",tourist_spots,Palakollu
+"Where are the tourist spots in Palakollu?",tourist_spots,Palakollu
+"List famous places to visit in Palakollu.",tourist_spots,Palakollu
+"Show me the top tourist destinations in Palakollu.",tourist_spots,Palakollu
+"Where can I visit in Palasa?",tourist_spots,Palasa
+"Find tourist attractions in Palasa.",tourist_spots,Palasa
+"Show me famous tourist spots in Palasa.",tourist_spots,Palasa
+"List top places to visit in Palasa.",tourist_spots,Palasa
+"Can you find tourist attractions in Peddapuram?",tourist_spots,Peddapuram
+"Where are the famous tourist spots in Peddapuram?",tourist_spots,Peddapuram
+"List top places to visit in Peddapuram.",tourist_spots,Peddapuram
+"Show me popular tourist destinations in Peddapuram.",tourist_spots,Peddapuram
+"Where can I visit in Pithapuram?",tourist_spots,Pithapuram
+"Find tourist attractions in Pithapuram.",tourist_spots,Pithapuram
+"Show me the must-visit places in Pithapuram.",tourist_spots,Pithapuram
+"List famous tourist spots in Pithapuram.",tourist_spots,Pithapuram
+"Can you show me tourist spots in Proddatur?",tourist_spots,Proddatur
+"Where are the famous tourist places in Proddatur?",tourist_spots,Proddatur
+"List top tourist destinations in Proddatur.",tourist_spots,Proddatur
+"Find popular tourist attractions in Proddatur.",tourist_spots,Proddatur
+"Where can I visit in Punganur?",tourist_spots,Punganur
+"Find tourist attractions in Punganur.",tourist_spots,Punganur
+"Show me the best places to visit in Punganur.",tourist_spots,Punganur
+"List top tourist attractions in Punganur.",tourist_spots,Punganur
+"Can you find tourist attractions in Puttur?",tourist_spots,Puttur
+"Where can I visit in Puttur?",tourist_spots,Puttur
+"List famous tourist spots in Puttur.",tourist_spots,Puttur
+"Show me top tourist destinations in Puttur.",tourist_spots,Puttur
+"Find tourist spots in Rajahmundry.",tourist_spots,Rajahmundry
+"Show me tourist attractions in Rajahmundry.",tourist_spots,Rajahmundry
+"Where can I visit in Rajahmundry?",tourist_spots,Rajahmundry
+"List famous tourist places in Rajahmundry.",tourist_spots,Rajahmundry
+"Can you find tourist spots in Rajampet?",tourist_spots,Rajampet
+"Show me the top tourist attractions in Rajampet.",tourist_spots,Rajampet
+"Where are the must-visit places in Rajampet?",tourist_spots,Rajampet
+"List popular tourist spots in Rajampet.",tourist_spots,Rajampet
+"Where can I visit in Ramachandrapuram?",tourist_spots,Ramachandrapuram
+"Find tourist attractions in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"Show me the famous tourist places in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"List the must-see spots in Ramachandrapuram.",tourist_spots,Ramachandrapuram
+"Can you find tourist attractions in Rayachoti?",tourist_spots,Rayachoti
+"Where are the tourist spots in Rayachoti?",tourist_spots,Rayachoti
+"List famous places to visit in Rayachoti.",tourist_spots,Rayachoti
+"Show me top tourist destinations in Rayachoti.",tourist_spots,Rayachoti
+"Where can I visit in Repalle?",tourist_spots,Repalle
+"Find tourist spots in Repalle.",tourist_spots,Repalle
+"Show me famous tourist attractions in Repalle.",tourist_spots,Repalle
+"List top places to visit in Repalle.",tourist_spots,Repalle
+"Can you show me tourist spots in Salur?",tourist_spots,Salur
+"Where are the must-visit places in Salur?",tourist_spots,Salur
+"List famous tourist attractions in Salur.",tourist_spots,Salur
+"Find popular tourist destinations in Salur.",tourist_spots,Salur
+"Where can I visit in Sattenapalle?",tourist_spots,Sattenapalle
+"Find tourist attractions in Sattenapalle.",tourist_spots,Sattenapalle
+"Show me famous tourist spots in Sattenapalle.",tourist_spots,Sattenapalle
+"List top places to visit in Sattenapalle.",tourist_spots,Sattenapalle
+"Can you find tourist attractions in Srikakulam?",tourist_spots,Srikakulam
+"Where are the tourist spots in Srikakulam?",tourist_spots,Srikakulam
+"List famous places to visit in Srikakulam.",tourist_spots,Srikakulam
+"Show me the top tourist destinations in Srikakulam.",tourist_spots,Srikakulam
+"Where can I visit in Adoni?",tourist_spots,Adoni
+"Find tourist attractions in Adoni.",tourist_spots,Adoni
+"Show me famous tourist spots in Adoni.",tourist_spots,Adoni
+"List top places to visit in Adoni.",tourist_spots,Adoni
+"Can you find tourist attractions in Amalapuram?",tourist_spots,Amalapuram
+"Where are the tourist spots in Amalapuram?",tourist_spots,Amalapuram
+"List famous places to visit in Amalapuram.",tourist_spots,Amalapuram
+"Show me the top tourist destinations in Amalapuram.",tourist_spots,Amalapuram
+"Where can I visit in Anakapalle?",tourist_spots,Anakapalle
+"Find tourist attractions in Anakapalle.",tourist_spots,Anakapalle
+"Show me famous tourist spots in Anakapalle.",tourist_spots,Anakapalle
+"List top places to visit in Anakapalle.",tourist_spots,Anakapalle
+"Can you find tourist attractions in Anantapur?",tourist_spots,Anantapur
+"Where are the tourist spots in Anantapur?",tourist_spots,Anantapur
+"List famous places to visit in Anantapur.",tourist_spots,Anantapur
+"Show me popular tourist destinations in Anantapur.",tourist_spots,Anantapur
+"Where can I visit in Badvel?",tourist_spots,Badvel
+"Find tourist attractions in Badvel.",tourist_spots,Badvel
+"Show me famous tourist spots in Badvel.",tourist_spots,Badvel
+"List top places to visit in Badvel.",tourist_spots,Badvel
+"Can you show me tourist spots in Bobbili?",tourist_spots,Bobbili
+"Where are the must-visit places in Bobbili?",tourist_spots,Bobbili
+"List famous tourist attractions in Bobbili.",tourist_spots,Bobbili
+"Find popular tourist destinations in Bobbili.",tourist_spots,Bobbili
+"Where can I visit in Bapatla?",tourist_spots,Bapatla
+"Find tourist attractions in Bapatla.",tourist_spots,Bapatla
+"Show me famous tourist spots in Bapatla.",tourist_spots,Bapatla
+"List top places to visit in Bapatla.",tourist_spots,Bapatla
+"Can you find tourist attractions in Bheemunipatnam?",tourist_spots,Bheemunipatnam
+"Where are the tourist spots in Bheemunipatnam?",tourist_spots,Bheemunipatnam
+"List famous places to visit in Bheemunipatnam.",tourist_spots,Bheemunipatnam
+"Show me the top tourist destinations in Bheemunipatnam.",tourist_spots,Bheemunipatnam
+"Where can I visit in Bhimavaram?",tourist_spots,Bhimavaram
+"Find tourist attractions in Bhimavaram.",tourist_spots,Bhimavaram
+"Show me famous tourist spots in Bhimavaram.",tourist_spots,Bhimavaram
+"List top places to visit in Bhimavaram.",tourist_spots,Bhimavaram
+"Can you find tourist attractions in Cherlopalle?",tourist_spots,Cherlopalle
+"Where are the tourist spots in Cherlopalle?",tourist_spots,Cherlopalle
+"List famous places to visit in Cherlopalle.",tourist_spots,Cherlopalle
+"Show me the top tourist destinations in Cherlopalle.",tourist_spots,Cherlopalle
+"Where can I visit in Chintapalle?",tourist_spots,Chintapalle
+"Find tourist attractions in Chintapalle.",tourist_spots,Chintapalle
+"Show me famous tourist spots in Chintapalle.",tourist_spots,Chintapalle
+"List top places to visit in Chintapalle.",tourist_spots,Chintapalle
+"Can you show me tourist spots in Chirala?",tourist_spots,Chirala
+"Where are the must-visit places in Chirala?",tourist_spots,Chirala
+"List famous tourist attractions in Chirala.",tourist_spots,Chirala
+"Find popular tourist destinations in Chirala.",tourist_spots,Chirala
+"Where can I visit in Chittoor?",tourist_spots,Chittoor
+"Find tourist attractions in Chittoor.",tourist_spots,Chittoor
+"Show me famous tourist spots in Chittoor.",tourist_spots,Chittoor
+"List top places to visit in Chittoor.",tourist_spots,Chittoor
+"Can you find tourist attractions in Chodavaram?",tourist_spots,Chodavaram
+"Where are the tourist spots in Chodavaram?",tourist_spots,Chodavaram
+"List famous places to visit in Chodavaram.",tourist_spots,Chodavaram
+"Show me the top tourist destinations in Chodavaram.",tourist_spots,Chodavaram
+"Where can I visit in Cumbum?",tourist_spots,Cumbum
+"Find tourist attractions in Cumbum.",tourist_spots,Cumbum
+"Show me famous tourist spots in Cumbum.",tourist_spots,Cumbum
+"List top places to visit in Cumbum.",tourist_spots,Cumbum
+"Can you show me tourist spots in Dhone?",tourist_spots,Dhone
+"Where are the top tourist attractions in Dhone?",tourist_spots,Dhone
+"List famous places to visit in Dhone.",tourist_spots,Dhone
+"Find popular tourist destinations in Dhone.",tourist_spots,Dhone
+"Where can I visit in Eluru?",tourist_spots,Eluru
+"Find famous tourist spots in Eluru.",tourist_spots,Eluru
+"Show me tourist attractions in Eluru.",tourist_spots,Eluru
+"List top places to visit in Eluru.",tourist_spots,Eluru
+"Can you find tourist attractions in Gopalapuram?",tourist_spots,Gopalapuram
+"Where are the tourist spots in Gopalapuram?",tourist_spots,Gopalapuram
+"List famous places to visit in Gopalapuram.",tourist_spots,Gopalapuram
+"Show me the top tourist destinations in Gopalapuram.",tourist_spots,Gopalapuram
+"Where can I visit in Gudur?",tourist_spots,Gudur
+"Find tourist attractions in Gudur.",tourist_spots,Gudur
+"Show me famous tourist spots in Gudur.",tourist_spots,Gudur
+"List top places to visit in Gudur.",tourist_spots,Gudur
+"Can you show me tourist spots in Guntakal?",tourist_spots,Guntakal
+"Where are the must-visit places in Guntakal?",tourist_spots,Guntakal
+"List famous tourist attractions in Guntakal.",tourist_spots,Guntakal
+"Find popular tourist destinations in Guntakal.",tourist_spots,Guntakal
+"Where can I visit in Guntur?",tourist_spots,Guntur
+"Find famous tourist spots in Guntur.",tourist_spots,Guntur
+"Show me the must-visit attractions in Guntur.",tourist_spots,Guntur
+"List top tourist destinations in Guntur.",tourist_spots,Guntur
+"Can you find tourist attractions in Hindupur?",tourist_spots,Hindupur
+"Where are the tourist spots in Hindupur?",tourist_spots,Hindupur
+"List famous places to visit in Hindupur.",tourist_spots,Hindupur
+"Show me popular tourist destinations in Hindupur.",tourist_spots,Hindupur
+"Where can I visit in Jammalamadugu?",tourist_spots,Jammalamadugu
+"Find famous tourist spots in Jammalamadugu.",tourist_spots,Jammalamadugu
+"Show me tourist attractions in Jammalamadugu.",tourist_spots,Jammalamadugu
+"List top places to visit in Jammalamadugu.",tourist_spots,Jammalamadugu
+"Can you show me tourist spots in Kadapa?",tourist_spots,Kadapa
+"Where are the must-visit places in Kadapa?",tourist_spots,Kadapa
+"List famous tourist attractions in Kadapa.",tourist_spots,Kadapa
+"Find popular tourist destinations in Kadapa.",tourist_spots,Kadapa
+"Where can I visit in Kadiri?",tourist_spots,Kadiri
+"Find tourist attractions in Kadiri.",tourist_spots,Kadiri
+"Show me famous tourist spots in Kadiri.",tourist_spots,Kadiri
+"List top places to visit in Kadiri.",tourist_spots,Kadiri
+"Can you find tourist attractions in Kakinada?",tourist_spots,Kakinada
+"Where are the tourist spots in Kakinada?",tourist_spots,Kakinada
+"List famous places to visit in Kakinada.",tourist_spots,Kakinada
+"Show me the top tourist destinations in Kakinada.",tourist_spots,Kakinada
+"Where can I visit in Kandukur?",tourist_spots,Kandukur
+"Find tourist attractions in Kandukur.",tourist_spots,Kandukur
+"Show me famous tourist spots in Kandukur.",tourist_spots,Kandukur
+"List top places to visit in Kandukur.",tourist_spots,Kandukur
+"Can you find tourist attractions in Kavali?",tourist_spots,Kavali
+"Where are the tourist spots in Kavali?",tourist_spots,Kavali
+"List famous places to visit in Kavali.",tourist_spots,Kavali
+"Show me popular tourist destinations in Kavali.",tourist_spots,Kavali
+"Where can I visit in Kovvur?",tourist_spots,Kovvur
+"Find tourist attractions in Kovvur.",tourist_spots,Kovvur
+"Show me the must-visit places in Kovvur.",tourist_spots,Kovvur
+"List famous tourist spots in Kovvur.",tourist_spots,Kovvur

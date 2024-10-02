@@ -1,0 +1,103 @@
+query,intent,city
+"I want to find hotels in Guntur",hotel,Guntur
+"Can you show me hospitals in Vijayawada?",hospital,Vijayawada
+"List famous tourist spots in Tirupati",tourist_spot,Tirupati
+"Find me churches in Visakhapatnam",church,Visakhapatnam
+"Show me some hotels in Nellore",hotel,Nellore
+"Where are the hospitals in Rajahmundry?",hospital,Rajahmundry
+"Tourist spots in Vizianagaram please",tourist_spot,Vizianagaram
+"I need churches in Kakinada",church,Kakinada
+"Famous hotels in Vijayawada",hotel,Vijayawada
+"Give me hospitals in Tirupati",hospital,Tirupati
+"Show tourist spots in Guntur",tourist_spot,Guntur
+"Where can I find churches in Nellore?",church,Nellore
+"Hotels in Kurnool",hotel,Kurnool
+"Where are the hospitals in Kurnool?",hospital,Kurnool
+"Top tourist spots in Visakhapatnam",tourist_spot,Visakhapatnam
+"Find churches in Rajahmundry",church,Rajahmundry
+"Famous hotels in Ongole",hotel,Ongole
+"List hospitals in Ongole",hospital,Ongole
+"Show me tourist spots in Srikakulam",tourist_spot,Srikakulam
+"Churches in Kakinada",church,Kakinada
+"Hotels in Anantapur",hotel,Anantapur
+"Where can I find hospitals in Eluru?",hospital,Eluru
+"Tourist spots in Palasa please",tourist_spot,Palasa
+"Find churches in Visakhapatnam",church,Visakhapatnam
+"I need hotels in Rajampet",hotel,Rajampet
+"Show me hospitals in Peddapuram",hospital,Peddapuram
+"Tourist spots in Chittoor",tourist_spot,Chittoor
+"Churches in Rajahmundry",church,Rajahmundry
+"Hotels in Eluru",hotel,Eluru
+"Where are the hospitals in Srikakulam?",hospital,Srikakulam
+"Show tourist spots in Guntakal",tourist_spot,Guntakal
+"Find churches in Kurnool",church,Kurnool
+"Famous hotels in Kadapa",hotel,Kadapa
+"List hospitals in Anakapalle",hospital,Anakapalle
+"Tourist spots in Machilipatnam",tourist_spot,Machilipatnam
+"Churches in Anantapur",church,Anantapur
+"Hotels in Kadapa",hotel,Kadapa
+"Where can I find hospitals in Chittoor?",hospital,Chittoor
+"Tourist spots in Badvel",tourist_spot,Badvel
+"Churches in Kurnool",church,Kurnool
+"Hotels in Vizianagaram",hotel,Vizianagaram
+"Find hospitals in Amaravati",hospital,Amaravati
+"Tourist spots in Tirupati",tourist_spot,Tirupati
+"Churches in Nellore",church,Nellore
+"Hotels in Markapur",hotel,Markapur
+"Where are the hospitals in Nandyala?",hospital,Nandyala
+"Tourist spots in Rajahmundry",tourist_spot,Rajahmundry
+"Find churches in Anakapalle",church,Anakapalle
+"Show me hotels in Kakinada",hotel,Kakinada
+"List hospitals in Chodavaram",hospital,Chodavaram
+"Tourist spots in Peddapuram",tourist_spot,Peddapuram
+"Churches in Kakinada",church,Kakinada
+"Hotels in Proddatur",hotel,Proddatur
+"Find hospitals in Nuzvid",hospital,Nuzvid
+"Tourist spots in Kandukur",tourist_spot,Kandukur
+"Churches in Vijayawada",church,Vijayawada
+"Hotels in Dhone",hotel,Dhone
+"Where can I find hospitals in Palakollu?",hospital,Palakollu
+"Tourist spots in Mangalagiri",tourist_spot,Mangalagiri
+"Find churches in Chittoor",church,Chittoor
+"Hotels in Nandyala",hotel,Nandyala
+"Show hospitals in Badvel",hospital,Badvel
+"Tourist spots in Vinukonda",tourist_spot,Vinukonda
+"Churches in Ongole",church,Ongole
+"Hotels in Anakapalle",hotel,Anakapalle
+"Find hospitals in Kurnool",hospital,Kurnool
+"Tourist spots in Chintapalle",tourist_spot,Chintapalle
+"Churches in Visakhapatnam",church,Visakhapatnam
+"Hotels in Tirupati",hotel,Tirupati
+"Where are the hospitals in Kakinada?",hospital,Kakinada
+"Tourist spots in Machilipatnam",tourist_spot,Machilipatnam
+"Find churches in Tadepalligudem",church,Tadepalligudem
+"Hotels in Macherla",hotel,Macherla
+"Show hospitals in Kovvur",hospital,Kovvur
+"Tourist spots in Bobbili",tourist_spot,Bobbili
+"Churches in Mangalagiri",church,Mangalagiri
+"Hotels in Kurnool",hotel,Kurnool
+"Find hospitals in Adoni",hospital,Adoni
+"Tourist spots in Sattenapalle",tourist_spot,Sattenapalle
+"Churches in Tadepalligudem",church,Tadepalligudem
+"Hotels in Bobbili",hotel,Bobbili
+"Show me hospitals in Anantapur",hospital,Anantapur
+"Tourist spots in Nellore",tourist_spot,Nellore
+"Find churches in Amaravati",church,Amaravati
+"Hotels in Rajampet",hotel,Rajampet
+"Where are the hospitals in Srikakulam?",hospital,Srikakulam
+"Tourist spots in Rayachoti",tourist_spot,Rayachoti
+"Churches in Badvel",church,Badvel
+"Hotels in Ongole",hotel,Ongole
+"Find hospitals in Guntur",hospital,Guntur
+"Tourist spots in Vizianagaram",tourist_spot,Vizianagaram
+"Churches in Kakinada",church,Kakinada
+"Show me tourist spots in Srikakulam",tourist_spot,Srikakulam
+"Hotels in Nellore, please",hotel,Nellore
+"Find me some hospitals in Kakinada",hospital,Kakinada
+"I want to know churches in Guntur",church,Guntur
+"Give me a list of hotels in Vijayawada",hotel,Vijayawada
+"Where are the tourist spots in Vizianagaram?",tourist_spot,Vizianagaram
+"Do you have any hospitals in Anantapur?",hospital,Anantapur
+"Churches in Kurnool",church,Kurnool
+"Show me hotels in Rajahmundry",hotel,Rajahmundry
+"Where are the tourist spots in Ongole?",tourist_spot,Ongole
